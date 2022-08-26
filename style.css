@@ -1,0 +1,38 @@
+
+.burro{
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(162, 113, 207, 0.691) ;
+    padding: 15px;
+    height: 650px;
+}
+.pinocho{
+    
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(162, 113, 207, 0.691) ;
+    padding: 15px;
+    height: 650px;
+}
+.fiona{
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(162, 113, 207, 0.691) ;
+    padding: 15px;
+    height: 650px;
+}
+.gatoconbotas{
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    height: 650px;
+    background-color:rgba(162, 113, 207, 0.691) ; 
+}
+
+.shew{
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    height: 650px;
+    background-color:rgba(162, 113, 207, 0.691) ;
+}
